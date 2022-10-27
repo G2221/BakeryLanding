@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat-css": "^3.1.0"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-less": "^5.0.0",
+    "gulp-watch": "^5.0.1"
+  }
+}

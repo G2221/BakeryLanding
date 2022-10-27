@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b768193-de15-4db4-9314-c2d808fdd85f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="294vFIzfxgCcnu1qGwIDHQmleyv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.8.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.7.16&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Front/Шаблон&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;Less&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Front\Tests\Test 10\css" />
+      <recent name="F:\Front\Tests\Test 10\Scripts" />
+      <recent name="F:\Front\Шаблонный проект\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Front\Tests\Test 10\css\styles" />
+      <recent name="F:\Front\Tests\Test 10" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b768193-de15-4db4-9314-c2d808fdd85f" name="Changes" comment="" />
+      <created>1652385067054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652385067054</updated>
+      <workItem from="1652385068164" duration="43000" />
+      <workItem from="1652512776490" duration="15000" />
+      <workItem from="1653111271316" duration="1538000" />
+      <workItem from="1653137359400" duration="2000" />
+      <workItem from="1653137372618" duration="6000" />
+      <workItem from="1654419481346" duration="1419000" />
+      <workItem from="1654795276294" duration="601000" />
+      <workItem from="1656148185314" duration="37000" />
+      <workItem from="1656174486407" duration="9540000" />
+      <workItem from="1656255098879" duration="4240000" />
+      <workItem from="1656491553499" duration="32483000" />
+      <workItem from="1656569078379" duration="15596000" />
+      <workItem from="1656652773562" duration="11667000" />
+      <workItem from="1656679497660" duration="9000" />
+      <workItem from="1656753389583" duration="923000" />
+      <workItem from="1661508847185" duration="3682000" />
+      <workItem from="1662552355065" duration="7047000" />
+      <workItem from="1662634937606" duration="1529000" />
+      <workItem from="1662644066260" duration="2274000" />
+      <workItem from="1662719528771" duration="6923000" />
+      <workItem from="1662812161909" duration="3783000" />
+      <workItem from="1662822078152" duration="8691000" />
+      <workItem from="1662832164203" duration="576000" />
+      <workItem from="1662832752123" duration="5742000" />
+      <workItem from="1662878868238" duration="2422000" />
+      <workItem from="1662884801287" duration="10000" />
+      <workItem from="1662965049009" duration="1625000" />
+      <workItem from="1662968809280" duration="1251000" />
+      <workItem from="1663155100657" duration="3025000" />
+      <workItem from="1663159045646" duration="1190000" />
+      <workItem from="1663230665912" duration="4000" />
+      <workItem from="1663248622886" duration="23000" />
+      <workItem from="1663248752137" duration="25000" />
+      <workItem from="1663331560365" duration="4160000" />
+      <workItem from="1663394709189" duration="3674000" />
+      <workItem from="1663486689740" duration="5418000" />
+      <workItem from="1663579079475" duration="1637000" />
+      <workItem from="1663586811530" duration="758000" />
+      <workItem from="1663604144589" duration="2408000" />
+      <workItem from="1663662129331" duration="632000" />
+      <workItem from="1663930325985" duration="5776000" />
+      <workItem from="1663953332726" duration="595000" />
+      <workItem from="1664086008229" duration="1232000" />
+      <workItem from="1664445758105" duration="13000" />
+      <workItem from="1664537808526" duration="4465000" />
+      <workItem from="1666885945125" duration="6000" />
+      <workItem from="1666886063616" duration="321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
